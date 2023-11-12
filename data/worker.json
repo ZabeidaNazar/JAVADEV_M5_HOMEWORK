@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Олексій", 
+        "birthday": "1990-03-15", 
+        "level": "Trainee", 
+        "salary": 800
+    },
+    {
+        "name": "Ірина", 
+        "birthday": "1985-07-22", 
+        "level": "Junior", 
+        "salary": 1200
+    },
+    {
+        "name": "Марія", 
+        "birthday": "1982-12-05", 
+        "level": "Middle", 
+        "salary": 4000
+    },
+    {
+        "name": "Павло", 
+        "birthday": "1978-06-30", 
+        "level": "Senior", 
+        "salary": 10000
+    },
+    {
+        "name": "Юрій", 
+        "birthday": "1995-04-10", 
+        "level": "Trainee", 
+        "salary": 950
+    },
+    {
+        "name": "Ольга", 
+        "birthday": "1989-09-18", 
+        "level": "Junior", 
+        "salary": 1300
+    },
+    {
+        "name": "Андрій", 
+        "birthday": "1980-01-25", 
+        "level": "Middle", 
+        "salary": 4500
+    },
+    {
+        "name": "Лариса", 
+        "birthday": "1974-09-07", 
+        "level": "Senior", 
+        "salary": 12000
+    },
+    {
+        "name": "Сергій", 
+        "birthday": "1992-08-03", 
+        "level": "Trainee", 
+        "salary": 900
+    },
+    {
+        "name": "Тетяна", 
+        "birthday": "1987-02-17", 
+        "level": "Junior", 
+        "salary": 1400
+    },
+    {
+        "name": "Марина", 
+        "birthday": "1984-04-08", 
+        "level": "Middle", 
+        "salary": 5000
+    },
+    {
+        "name": "Ігор", 
+        "birthday": "1977-09-12", 
+        "level": "Senior", 
+        "salary": 15000
+    },
+    {
+        "name": "Наталія", 
+        "birthday": "1993-07-30", 
+        "level": "Trainee", 
+        "salary": 850
+    },
+    {
+        "name": "Дмитро", 
+        "birthday": "1988-03-01", 
+        "level": "Junior", 
+        "salary": 1600
+    },
+    {
+        "name": "Оксана", 
+        "birthday": "1981-11-22", 
+        "level": "Middle", 
+        "salary": 5500
+    },
+    {
+        "name": "Віталій", 
+        "birthday": "1976-05-17", 
+        "level": "Senior", 
+        "salary": 18000
+    },
+    {
+        "name": "Софія", 
+        "birthday": "1994-10-27", 
+        "level": "Trainee", 
+        "salary": 900
+    },
+    {
+        "name": "Анна", 
+        "birthday": "1983-08-14", 
+        "level": "Junior", 
+        "salary": 1700
+    },
+    {
+        "name": "Володимир", 
+        "birthday": "1986-06-05", 
+        "level": "Middle", 
+        "salary": 6000
+    },
+    {
+        "name": "Євгенія", 
+        "birthday": "1979-12-10", 
+        "level": "Senior", 
+        "salary": 20000
+    },
+    {
+        "name": "Іван", 
+        "birthday": "1991-02-28", 
+        "level": "Trainee", 
+        "salary": 850
+    },
+    {
+        "name": "Валентина", 
+        "birthday": "1980-04-16", 
+        "level": "Junior", 
+        "salary": 1800
+    },
+    {
+        "name": "Олег", 
+        "birthday": "1977-03-03", 
+        "level": "Middle", 
+        "salary": 6500
+    },
+    {
+        "name": "Людмила", 
+        "birthday": "1974-09-07", 
+        "level": "Senior", 
+        "salary": 22000
+    },
+    {
+        "name": "Роман", 
+        "birthday": "2000-01-05", 
+        "level": "Trainee", 
+        "salary": 800
+    },
+    {
+        "name": "Катерина", 
+        "birthday": "1989-07-19", 
+        "level": "Junior", 
+        "salary": 1900
+    },
+    {
+        "name": "Антон", 
+        "birthday": "1982-05-30", 
+        "level": "Middle", 
+        "salary": 7000
+    },
+    {
+        "name": "Тамара", 
+        "birthday": "1977-08-02", 
+        "level": "Senior", 
+        "salary": 24000
+    },
+    {
+        "name": "Михайло", 
+        "birthday": "1994-06-18", 
+        "level": "Trainee", 
+        "salary": 850
+    },
+    {
+        "name": "Надія", 
+        "birthday": "1983-11-09", 
+        "level": "Junior", 
+        "salary": 2000
+    },
+    {
+        "name": "Євген", 
+        "birthday": "1986-10-12", 
+        "level": "Middle", 
+        "salary": 7500
+    },
+    {
+        "name": "Оксана", 
+        "birthday": "1979-12-25", 
+        "level": "Senior", 
+        "salary": 26000
+    },
+    {
+        "name": "Сергій", 
+        "birthday": "1993-03-03", 
+        "level": "Trainee", 
+        "salary": 900
+    },
+    {
+        "name": "Тетяна", 
+        "birthday": "1988-02-14", 
+        "level": "Junior", 
+        "salary": 2100
+    },
+    {
+        "name": "Денис", 
+        "birthday": "1981-09-07", 
+        "level": "Middle", 
+        "salary": 8000
+    },
+    {
+        "name": "Маргарита", 
+        "birthday": "1976-07-22", 
+        "level": "Senior", 
+        "salary": 28000
+    },
+    {
+        "name": "Олена", 
+        "birthday": "1990-08-31", 
+        "level": "Trainee", 
+        "salary": 950
+    },
+    {
+        "name": "Максим", 
+        "birthday": "1985-04-16", 
+        "level": "Junior", 
+        "salary": 2200
+    },
+    {
+        "name": "Єлизавета", 
+        "birthday": "1982-12-29", 
+        "level": "Middle", 
+        "salary": 8500
+    },
+    {
+        "name": "Андрій", 
+        "birthday": "1977-10-18", 
+        "level": "Senior", 
+        "salary": 30000
+    },
+    {
+        "name": "Вікторія", 
+        "birthday": "1995-06-15", 
+        "level": "Trainee", 
+        "salary": 1000
+    },
+    {
+        "name": "Василь", 
+        "birthday": "1989-03-07", 
+        "level": "Junior", 
+        "salary": 2300
+    },
+    {
+        "name": "Ольга", 
+        "birthday": "1983-02-01", 
+        "level": "Middle", 
+        "salary": 9000
+    },
+    {
+        "name": "Світлана", 
+        "birthday": "1978-08-13", 
+        "level": "Senior", 
+        "salary": 32000
+    },
+    {
+        "name": "Дмитро", 
+        "birthday": "1992-07-26", 
+        "level": "Trainee", 
+        "salary": 1050
+    },
+    {
+        "name": "Юлія", 
+        "birthday": "1987-01-19", 
+        "level": "Junior", 
+        "salary": 2400
+    },
+    {
+        "name": "Максим", 
+        "birthday": "1980-10-14", 
+        "level": "Middle", 
+        "salary": 9500
+    },
+    {
+        "name": "Ніна", 
+        "birthday": "1975-06-05", 
+        "level": "Senior", 
+        "salary": 34000
+    },
+    {
+        "name": "Ірина", 
+        "birthday": "1991-03-12", 
+        "level": "Trainee", 
+        "salary": 1100
+    },
+    {
+        "name": "Олександр", 
+        "birthday": "1986-09-08", 
+        "level": "Junior", 
+        "salary": 2500
+    },
+    {
+        "name": "Ігор", 
+        "birthday": "1981-05-31", 
+        "level": "Middle", 
+        "salary": 10000
+    },
+    {
+        "name": "Людмила", 
+        "birthday": "1976-02-24", 
+        "level": "Senior", 
+        "salary": 36000
+    },
+    {
+        "name": "Анна", 
+        "birthday": "1994-09-19", 
+        "level": "Trainee", 
+        "salary": 1150
+    },
+    {
+        "name": "Сергій", 
+        "birthday": "1989-12-17", 
+        "level": "Junior", 
+        "salary": 2600
+    },
+    {
+        "name": "Оксана", 
+        "birthday": "1984-08-03", 
+        "level": "Middle", 
+        "salary": 10500
+    },
+    {
+        "name": "Павло", 
+        "birthday": "1978-04-28", 
+        "level": "Senior", 
+        "salary": 38000
+    },
+    {
+        "name": "Надія", 
+        "birthday": "1993-10-02", 
+        "level": "Trainee", 
+        "salary": 1200
+    },
+    {
+        "name": "Марія", 
+        "birthday": "1988-07-25", 
+        "level": "Junior", 
+        "salary": 2700
+    },
+    {
+        "name": "Василь", 
+        "birthday": "1982-03-11", 
+        "level": "Middle", 
+        "salary": 11000
+    },
+    {
+        "name": "Олена", 
+        "birthday": "1977-01-14", 
+        "level": "Senior", 
+        "salary": 40000
+    },
+    {
+        "name": "Євгенія", 
+        "birthday": "1991-08-20", 
+        "level": "Trainee", 
+        "salary": 1250
+    },
+    {
+        "name": "Дмитро", 
+        "birthday": "1986-06-23", 
+        "level": "Junior", 
+        "salary": 2800
+    },
+    {
+        "name": "Юрій", 
+        "birthday": "1981-11-07", 
+        "level": "Middle", 
+        "salary": 11500
+    },
+    {
+        "name": "Оксана", 
+        "birthday": "1976-09-29", 
+        "level": "Senior", 
+        "salary": 42000
+    },
+    {
+        "name": "Андрій", 
+        "birthday": "1994-02-13", 
+        "level": "Trainee", 
+        "salary": 1300
+    },
+    {
+        "name": "Тетяна", 
+        "birthday": "1989-12-07", 
+        "level": "Junior", 
+        "salary": 2900
+    },
+    {
+        "name": "Марина", 
+        "birthday": "1984-07-31", 
+        "level": "Middle", 
+        "salary": 12000
+    },
+    {
+        "name": "Сергій", 
+        "birthday": "1979-03-22", 
+        "level": "Senior", 
+        "salary": 44000
+    },
+    {
+        "name": "Ніна", 
+        "birthday": "1993-11-14", 
+        "level": "Trainee", 
+        "salary": 1350
+    },
+    {
+        "name": "Ігор", 
+        "birthday": "1988-09-26", 
+        "level": "Junior", 
+        "salary": 3000
+    },
+    {
+        "name": "Ольга", 
+        "birthday": "1983-05-19", 
+        "level": "Middle", 
+        "salary": 12500
+    },
+    {
+        "name": "Анна", 
+        "birthday": "1977-02-02", 
+        "level": "Senior", 
+        "salary": 46000
+    },
+    {
+        "name": "Іван", 
+        "birthday": "1991-10-24", 
+        "level": "Trainee", 
+        "salary": 1400
+    },
+    {
+        "name": "Максим", 
+        "birthday": "1986-08-16", 
+        "level": "Junior", 
+        "salary": 3100
+    },
+    {
+        "name": "Оксана", 
+        "birthday": "1981-04-09", 
+        "level": "Middle", 
+        "salary": 13000
+    },
+    {
+        "name": "Марія", 
+        "birthday": "1976-03-04", 
+        "level": "Senior", 
+        "salary": 48000
+    },
+    {
+        "name": "Павло", 
+        "birthday": "1994-12-10", 
+        "level": "Trainee", 
+        "salary": 1450
+    },
+    {
+        "name": "Юлія", 
+        "birthday": "1989-06-22", 
+        "level": "Junior", 
+        "salary": 3200
+    },
+    {
+        "name": "Сергій", 
+        "birthday": "1984-02-15", 
+        "level": "Middle", 
+        "salary": 13500
+    },
+    {
+        "name": "Надія", 
+        "birthday": "1979-10-06", 
+        "level": "Senior", 
+        "salary": 50000
+    },
+    {
+        "name": "Євген", 
+        "birthday": "1993-09-28", 
+        "level": "Trainee", 
+        "salary": 1500
+    },
+    {
+        "name": "Ольга", 
+        "birthday": "1988-07-20", 
+        "level": "Junior", 
+        "salary": 3300
+    },
+    {
+        "name": "Василь", 
+        "birthday": "1983-06-13", 
+        "level": "Middle", 
+        "salary": 14000
+    },
+    {
+        "name": "Тетяна", 
+        "birthday": "1978-12-26", 
+        "level": "Senior", 
+        "salary": 52000
+    },
+    {
+        "name": "Андрій", 
+        "birthday": "1992-02-05", 
+        "level": "Trainee", 
+        "salary": 1550
+    },
+    {
+        "name": "Марина", 
+        "birthday": "1987-03-29", 
+        "level": "Junior", 
+        "salary": 3400
+    },
+    {
+        "name": "Володимир", 
+        "birthday": "1981-01-21", 
+        "level": "Middle", 
+        "salary": 14500
+    },
+    {
+        "name": "Оксана", 
+        "birthday": "1976-07-14", 
+        "level": "Senior", 
+        "salary": 60000
+    },
+    {
+        "name": "Світлана", 
+        "birthday": "1994-04-23", 
+        "level": "Trainee", 
+        "salary": 1600
+    },
+    {
+        "name": "Дмитро", 
+        "birthday": "1989-10-18", 
+        "level": "Junior", 
+        "salary": 3500
+    },
+    {
+        "name": "Ірина", 
+        "birthday": "1984-05-11", 
+        "level": "Middle", 
+        "salary": 15000
+    },
+    {
+        "name": "Олександр", 
+        "birthday": "1979-03-04", 
+        "level": "Senior", 
+        "salary": 56000
+    },
+    {
+        "name": "Юрій", 
+        "birthday": "1993-02-27", 
+        "level": "Trainee", 
+        "salary": 1650
+    },
+    {
+        "name": "Наталія", 
+        "birthday": "1988-01-20", 
+        "level": "Junior", 
+        "salary": 3600
+    },
+    {
+        "name": "Марія", 
+        "birthday": "1982-06-03", 
+        "level": "Middle", 
+        "salary": 15500
+    },
+    {
+        "name": "Павло", 
+        "birthday": "1977-09-24", 
+        "level": "Senior", 
+        "salary": 58000
+    },
+    {
+        "name": "Ольга", 
+        "birthday": "1995-07-08", 
+        "level": "Trainee", 
+        "salary": 1700
+    },
+    {
+        "name": "Ігор", 
+        "birthday": "1989-12-31", 
+        "level": "Junior", 
+        "salary": 3700
+    },
+    {
+        "name": "Сергій", 
+        "birthday": "1984-10-23", 
+        "level": "Middle", 
+        "salary": 16000
+    },
+    {
+        "name": "Тетяна", 
+        "birthday": "1979-08-17", 
+        "level": "Senior", 
+        "salary": 60000
+    }
+]
